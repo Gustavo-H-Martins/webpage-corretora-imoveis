@@ -26,3 +26,6 @@ Em C#
 ![image](https://user-images.githubusercontent.com/70769813/185722681-9e0f20e1-8d15-4301-8073-29cda35e4b74.png)
 ![image](https://user-images.githubusercontent.com/70769813/185722716-f1c77489-1061-4c8e-867c-3b1beda75d46.png)
 
+### Deu erro na migração do DB, e realização do CRUD, vinculei o MySql, mas o sistema está puxando SqlServer alterei em alguns cmapos, mas devo ter deixado passar algum.
+![image](https://user-images.githubusercontent.com/70769813/185722890-5e9f36e1-8bf1-4fa8-8606-a9d69a2d9ddd.png)
+	Que telinha feia né?!
