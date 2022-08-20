@@ -18,4 +18,11 @@ Em C#
 
 # Database
   persistência MySQL
+## Visual do Site (até o momento deste Commit)
+![image](https://user-images.githubusercontent.com/70769813/185722459-9734221c-a19d-4d78-947e-f02f1b0bf270.png)
+![image](https://user-images.githubusercontent.com/70769813/185722520-10efb8ee-fde0-4ad1-afea-1cfa009edd91.png)
+![image](https://user-images.githubusercontent.com/70769813/185722632-8b86fd4e-a572-45e2-b301-d5117b9ef8ff.png)
+## Tela de usuário com buscador de cep
+![image](https://user-images.githubusercontent.com/70769813/185722681-9e0f20e1-8d15-4301-8073-29cda35e4b74.png)
+![image](https://user-images.githubusercontent.com/70769813/185722716-f1c77489-1061-4c8e-867c-3b1beda75d46.png)
 
